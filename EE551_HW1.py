@@ -17,14 +17,16 @@ def numbers_and_strings():
     y = "Stevens"
     
     # Repeat variable y 5 times
-    "y" * 5
+    z = y * 5
     
     # What is the length of z?
-    len(z)
+    length = len(z)
+    
     # Concatenate variable y with string " is good"
+    m = y + " is good"
     
     # Replace "good" with "awesome" in variable m and assign it to a new variable n
-
+    n = m.replace("good", "awesome")
     return x, y, z, length, m, n
 
 
