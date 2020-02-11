@@ -14,13 +14,15 @@ def numbers_and_strings():
     x = "EE551"
 
     # Assign a string "Stevens" to a variable y
-
+    y = "Stevens"
+    
     # Repeat variable y 5 times
-
+    "y" * 5
+    
     # What is the length of z?
-
+    len(z)
     # Concatenate variable y with string " is good"
-
+    
     # Replace "good" with "awesome" in variable m and assign it to a new variable n
 
     return x, y, z, length, m, n
