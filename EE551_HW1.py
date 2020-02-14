@@ -65,7 +65,7 @@ def lists():
 
 
 
-dictionaries():
+def dictionaries():
     """
     This is to review basic operations with dictionaries.
     """
